@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @EthDevelopment
-- 👀 I’m interested in DAPPS and Crypto
-- 🌱 I’m currently learning Web3 Application and game development
+- 👋 Hi, I’m Swaleh AKA @EthDevelopment
+- 🧱 I’m just building, one brick at a time
 
 <!---
 EthDevelopment/EthDevelopment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
